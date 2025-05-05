@@ -48,6 +48,3 @@ A comunicação entre o ESP32 e o módulo GPS é realizada via UART, e os dados 
 4. Compile e envie o código para o ESP32.  
 5. Abra o monitor serial com a taxa de baud correta (ex: 9600) para visualizar os dados em tempo real.  
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
