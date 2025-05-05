@@ -1,4 +1,4 @@
-# ESP32 GPS Project
+# Leitura de Coordenadas GPS com ESP32
 
 ## Visão Geral
 
