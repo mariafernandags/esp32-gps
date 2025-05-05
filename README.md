@@ -26,10 +26,9 @@ A comunicação entre o ESP32 e o módulo GPS é realizada via UART, e os dados 
 
 > **Nota**: Certifique-se de que o módulo GPS opera em 3.3V. Caso contrário, utilize um conversor de nível lógico para evitar danos ao ESP32.
 
-## Bibliotecas Utilizadas
+## Biblioteca Utilizada
 
-- [TinyGPS++](https://github.com/mikalhart/TinyGPSPlus): Biblioteca para parsing de dados NMEA provenientes do GPS.  
-- [HardwareSerial](https://www.arduino.cc/en/Reference/HardwareSerial): Biblioteca padrão do Arduino para comunicação serial.  
+- [TinyGPS](https://github.com/mikalhart/TinyGPS): Biblioteca para parsing de dados NMEA provenientes do GPS.  
 
 ## Explicação do Código
 
