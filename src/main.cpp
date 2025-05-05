@@ -1,5 +1,4 @@
 #include <TinyGPS.h>
-#include <HardwareSerial.h>
 
 TinyGPS gps;
 HardwareSerial GPS_Serial(1);  // UART1 (RX=16, TX=17)
