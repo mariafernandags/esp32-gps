@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto demonstra como integrar um módulo GPS MTK3339 com um microcontrolador ESP32 utilizando a biblioteca TinyGPS. O sistema é capaz de ler e exibir em tempo real:
+Este projeto demonstra como integrar um módulo Adafruit Ultimate GPS Breakout com um microcontrolador ESP32 utilizando a biblioteca TinyGPS. O sistema é capaz de ler e exibir em tempo real:
 
 - **Coordenadas geográficas**: latitude e longitude  
 - **Data e hora**: fornecidas pelo sinal de satélite  
