@@ -13,7 +13,7 @@ A comunicação entre o ESP32 e o módulo GPS é realizada via UART, e os dados 
 ## Componentes Necessários
 
 - ESP32 DevKit  
-- Módulo GPS MTK3339 (ou compatível)  
+- Módulo GPS Adafruit (ou compatível)  
 - Jumpers macho-macho  
 - Fonte de alimentação adequada (por exemplo, USB)  
 
